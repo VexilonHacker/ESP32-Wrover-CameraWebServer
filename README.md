@@ -81,7 +81,7 @@ Download the project using `git`:
 
 ```bash
 git clone https://github.com/VexilonHacker/ESP32-Wrover-CameraWebServer
-cd ESP32-Wrover-CAM
+cd ESP32-Wrover-CameraWebServer 
 ```
 
 ---
