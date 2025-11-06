@@ -80,7 +80,7 @@ If you don’t have PlatformIO installed, follow the instructions here: __[platf
 Download the project using `git`:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/ESP32-Wrover-CAM.git
+git clone https://github.com/VexilonHacker/ESP32-Wrover-CameraWebServer
 cd ESP32-Wrover-CAM
 ```
 
