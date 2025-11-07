@@ -15,7 +15,13 @@ This project allows you to use an **ESP32-Wrover CAM module** to stream live vid
 - Lightweight, simple, and easy to use
 
 ---
+## Board images 
+<p align="center">
+  <img src="assts/board1.jpg" alt="b1" width="45%">
+  <img src="assts/board2.jpg" alt="b2" width="45%">
+</p>
 
+---
 ## Folder Structure
 
 ```bash
@@ -81,7 +87,7 @@ Download the project using `git`:
 
 ```bash
 git clone https://github.com/VexilonHacker/ESP32-Wrover-CameraWebServer
-cd ESP32-Wrover-CameraWebServer 
+cd ESP32-Wrover-CAM
 ```
 
 ---
